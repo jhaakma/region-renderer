@@ -1,0 +1,62 @@
+{
+    "freshwater": {
+        "color": "#397BDF",
+        "description": "Freshwater"
+    },
+    "arctic": {
+        "color": "#00FFFF",
+        "description": "Arctic"
+    },
+    "swamp": {
+        "color": "#19C519",
+        "description": "Swamp"
+    },
+    "tropical": {
+        "color": "#FFC31F",
+        "description": "Tropical"
+    },
+    "lakeNabia": {
+        "color": "#A03632",
+        "description": "Lake Nabia"
+    },
+    "riverSamsi": {
+        "color": "#EA00FF",
+        "description": "River Samsi"
+    },
+    "West Gash Region": {
+        "color": "#FF0000",
+        "description": "West Gash Region"
+    },
+    "Bitter Coast Region": {
+        "color": "#00FF00",
+        "description": "Bitter Coast Region"
+    },
+    "Sheogorad": {
+        "color": "#0000FF",
+        "description": "Sheogorad"
+    },
+    "Ashlands Region": {
+        "color": "#FFA500",
+        "description": "Ashlands Region"
+    },
+    "Red Mountain Region": {
+        "color": "#FF4500",
+        "description": "Red Mountain Region"
+    },
+    "Azura's Coast Region": {
+        "color": "#FF1293",
+        "description": "Azura's Coast Region"
+    },
+    "Ascadian Isles Region": {
+        "color": "#FFFF00",
+        "description": "Ascadian Isles Region"
+    },
+    "Molag Mar Region": {
+        "color": "#523419",
+        "description": "Molag Mar Region"
+    },
+    "Grazelands Region": {
+        "color": "#008000",
+        "description": "Grazelands Region"
+    }
+}

@@ -1,0 +1,8 @@
+pyproject.toml
+src/RegionTypes.py
+src/generate_region_config.py
+src/region_renderer.egg-info/PKG-INFO
+src/region_renderer.egg-info/SOURCES.txt
+src/region_renderer.egg-info/dependency_links.txt
+src/region_renderer.egg-info/requires.txt
+src/region_renderer.egg-info/top_level.txt
